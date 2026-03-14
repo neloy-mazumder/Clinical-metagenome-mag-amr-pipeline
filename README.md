@@ -310,7 +310,7 @@ If used in research, please cite:
 ## Developer
 
 **Neloy Kumar Mazumder**  
-Core Research Manager  
+Research Manager  
 *Dawn of Bioinformatics Ltd.*
 
 ---
